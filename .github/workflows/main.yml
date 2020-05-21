@@ -33,6 +33,8 @@ jobs:
         projectPath:
           - test-project
         unityVersion:
+          - 2019.3.8f1
+          - 2019.3.9f1
           - 2020.1.0b9
         #          - 2019.3.0f1 # requires different license file/method
         targetPlatform:
