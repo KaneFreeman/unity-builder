@@ -33,7 +33,7 @@ jobs:
         projectPath:
           - test-project
         unityVersion:
-          - 2019.2.11f1
+          - 2019.3.14f1
         #          - 2019.3.0f1 # requires different license file/method
         targetPlatform:
           - StandaloneWindows64 # Build a Windows 64-bit standalone.
