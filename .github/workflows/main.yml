@@ -34,7 +34,6 @@ jobs:
           - test-project
         unityVersion:
           - 2020.1.0b9
-        #          - 2019.3.0f1 # requires different license file/method
         targetPlatform:
           - StandaloneWindows64 # Build a Windows 64-bit standalone.
 
